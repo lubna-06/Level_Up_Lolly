@@ -5,7 +5,7 @@ Team Name: Bloom
 -   Member 1:Lubna Salin - LBSITW
 -    Member 2: Joshna P John - LBSITW
 -    Hosted Project Link
-[mention your project hosted link here]
+  https://level-up-lolly.onrender.com
 
 Project Description
 A gamified task management and goal tracking app with a sweet candy theme!
