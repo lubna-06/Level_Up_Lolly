@@ -1,7 +1,7 @@
 # Level Up Lolly 
-Basic Details
+
 Team Name: Bloom
-Team Members
+- **Team Members**:
 Member 1: Lubna Salin - LBSITW
 Member 2: Joshna P John - LBSITW
 Hosted Project Link
