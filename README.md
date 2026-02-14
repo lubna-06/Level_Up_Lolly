@@ -1,5 +1,13 @@
 # Level Up Lolly 
+Basic Details
+Team Name: Bloom
+Team Members
+Member 1: Lubna Salin - LBSITW
+Member 2: Joshna P John - LBSITW
+Hosted Project Link
+[mention your project hosted link here]
 
+Project Description
 A gamified task management and goal tracking app with a sweet candy theme!
 
 ## Features
