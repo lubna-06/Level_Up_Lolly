@@ -1,10 +1,10 @@
-# Level Up Lolly 🍭
+# Level Up Lolly 
 
 A gamified task management and goal tracking app with a sweet candy theme!
 
 ## Features
 
-- **Daily Missions**: Track up to 4 daily tasks with optional stopwatch timers
+- **Daily Missions**: Track up to 10 daily tasks with optional stopwatch timers
 - **Points System**: Earn 10 points per task, plus 50 bonus points for completing all daily tasks
 - **Title Progression**: Unlock 17 candy-themed titles from "Sugar Seed" to "Royal Candy Sovereign"
 - **Roadmap**: Set long-term goals with unlockable milestone levels
@@ -29,7 +29,7 @@ npm run dev
 ## How to Use
 
 ### Daily Page
-- Add up to 4 daily tasks
+- Add up to 10 daily tasks
 - Check off tasks to earn 10 points each
 - Enable stopwatch for time tracking (Start/Pause/Reset)
 - Complete all tasks to earn 50 bonus points and increase your streak
@@ -39,7 +39,7 @@ npm run dev
 - Set your main long-term goal
 - Add multiple sub-goals as level milestones
 - Complete levels in order (each level unlocks the next)
-- Earn milestone titles at 2, 4, 6, 8, 10, 12, 15 completed levels
+- Earn milestone titles at 5, 10, 15, 20, 25, 30, 35 completed levels
 - Complete all levels to become a "Royal Lolly Legend"
 
 ### Title Ranks (based on total points)
@@ -62,13 +62,13 @@ npm run dev
 - 5000+: Royal Candy Sovereign
 
 ### Milestone Titles
-- 2 levels: Candy Pathfinder
-- 4 levels: Sugar Adventurer
-- 6 levels: Sprinkle Navigator
-- 8 levels: Lolly Architect
-- 10 levels: Caramel Visionary
-- 12 levels: Frosted Mastermind
-- 15 levels: Candy Conqueror
+- 5 levels: Candy Pathfinder
+- 10 levels: Sugar Adventurer
+- 15 levels: Sprinkle Navigator
+- 20 levels: Lolly Architect
+- 25 levels: Caramel Visionary
+- 30 levels: Frosted Mastermind
+- 35 levels: Candy Conqueror
 - All levels: Royal Lolly Legend
 
 ## Tech Stack
@@ -77,7 +77,7 @@ npm run dev
 - Vite
 - React Router
 - CSS Animations
-- LocalStorage for persistence
+- Firebase for persistence
 
 ## Build for Production
 
@@ -93,4 +93,4 @@ The build output will be in the `dist` folder.
 npm run preview
 ```
 
-Enjoy your sweet journey to success! 🍬✨
+Enjoy your sweet journey to success!✨
