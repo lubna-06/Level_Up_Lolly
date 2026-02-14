@@ -1,14 +1,31 @@
 # Level Up Lolly 
 
 Team Name: Bloom
-- **Team Members**:
-Member 1: Lubna Salin - LBSITW
-Member 2: Joshna P John - LBSITW
-Hosted Project Link
+- **Team Members:**
+-   Member 1:Lubna Salin - LBSITW
+-    Member 2: Joshna P John - LBSITW
+-    Hosted Project Link
 [mention your project hosted link here]
 
 Project Description
 A gamified task management and goal tracking app with a sweet candy theme!
+
+**Problem Statement**:
+
+Many people struggle to consistently complete daily and long-term tasks because traditional to-do lists are boring and fail to motivate users. There is no system that makes task completion engaging, rewarding, and visually fun, especially for users who enjoy gamified experiences.
+Level Up Lolly addresses this problem by turning tasks into a gamified, candy-themed journey:
+Daily tasks are converted into “missions” with points awarded for completion.
+Long-term goals are broken into a roadmap of levels, where completing sub-goals unlocks the next level.
+Users earn cute milestone titles and streak rewards as they progress.
+The interface uses animations, level indicators, and visual progress to make task management fun and motivating.
+The system ensures users are encouraged to complete tasks regularly while enjoying a playful, game-like experience, turning productivity into a rewarding activity
+
+**Solution**:Level Up Lolly gamifies task management to make daily and long-term goals fun and engaging:
+Daily Missions: Users can add up to 4 daily tasks. Completing tasks earns points, and finishing all tasks triggers bonus points and streak rewards. Optional timers and animated progress make each task interactive.
+Long-Term Roadmap: Users create a main goal with multiple sub-goals arranged in a “level” roadmap. Completing a sub-goal unlocks the next, and finishing milestones awards cute titles, creating a sense of progression and achievement.
+Progress Tracking: Points, streaks, completed tasks, and earned titles are saved (localStorage or Firebase), allowing users to continue exactly where they left off.
+Gamified Interface: The app uses candy-themed visuals, level circles, milestone popups, and animations to make productivity motivating and enjoyable.
+Impact: Users are encouraged to complete tasks consistently, track long-term progress, and stay motivated through rewards, levels, and titles.
 
 ## Features
 
@@ -33,6 +50,45 @@ npm run dev
 ```
 
 3. Open your browser to `http://localhost:5173`
+## Project Documentation
+<img width="1920" height="1080" alt="Screenshot 2026-02-14 092844" src="https://github.com/user-attachments/assets/6f29d79c-4e12-45c3-ab07-90adad872ac6" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-14 092949" src="https://github.com/user-attachments/assets/08f17764-316c-43a9-90e6-5ef56e82ed3e" />
+
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-14 093024" src="https://github.com/user-attachments/assets/1f63fc2d-6f7d-45bb-9074-ebafe59baf92" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-14 093307" src="https://github.com/user-attachments/assets/2f050261-6842-4008-820c-01c9a3c62455" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-14 093356" src="https://github.com/user-attachments/assets/5fbf6626-3193-4eb9-925c-c600885a1c15" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-14 093451" src="https://github.com/user-attachments/assets/77769537-8787-41b1-b916-314da892bbe9" />
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-14 093506" src="https://github.com/user-attachments/assets/8eb68f8b-b16b-48aa-928d-2f545616b686" />
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-14 093547" src="https://github.com/user-attachments/assets/ba905e50-3691-4799-8c18-69272e02d736" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-14 093609" src="https://github.com/user-attachments/assets/7df52f9c-e5b6-4258-bf0d-1ccbb13b0acd" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-14 093625" src="https://github.com/user-attachments/assets/8f4c97d7-b316-4459-9b37-011b0d49d95f" />
+
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-14 093625" src="https://github.com/user-attachments/assets/8556a209-b3f4-4a13-8d78-1e8a366dd9a5" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-14 093643" src="https://github.com/user-attachments/assets/78550dfd-585f-4f28-9826-4f430122cb00" />
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-14 093731" src="https://github.com/user-attachments/assets/5fe6e08a-d3ee-4d3b-9f9f-d1eb1736c53f" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-14 093745" src="https://github.com/user-attachments/assets/cc76c683-4532-4cc8-9157-8e7d8156e411" />
+
+## Application Workflow
+
+<img width="1024" height="1536" alt="workflow" src="https://github.com/user-attachments/assets/07314b2e-7df7-4b78-97cf-b5c966f87376" />
 
 ## How to Use
 
@@ -100,5 +156,11 @@ The build output will be in the `dist` folder.
 ```bash
 npm run preview
 ```
+
+# Project Demo
+## Video
+
+https://drive.google.com/file/d/1Wq83AJ60McUDA_bjL51ElTJRyES2tdp_/view?usp=drivesdk
+
 
 Enjoy your sweet journey to success!✨
